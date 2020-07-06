@@ -14,7 +14,7 @@
   implementation 'com.android.volley:volley:1.1.1'
       
 //Picasso Dependencies
-
+implementation 'com.squareup.picasso:picasso:(insert latest version)'
       
       
       //Google Dependencies
